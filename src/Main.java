@@ -7,6 +7,13 @@ public class Main {
         long longNum1 = 25000000000L;
         float floatNum1 = 11.55446688f;
         double doubleNum1 = 250.55612345678999;
+        // Вывод значений переменных в консоль
+        System.out.println("Значение переменной intNum1 с типом int равно " + intNum1);
+        System.out.println("Значение переменной byteNum1 с типом byte равно " + byteNum1);
+        System.out.println("Значение переменной shortNum1 с типом short равно " + shortNum1);
+        System.out.println("Значение переменной longNum1 с типом long равно " + longNum1);
+        System.out.println("Значение переменной floatNum1 с типом float равно " + floatNum1);
+        System.out.println("Значение переменной doubleNum1 с типом double равно " + doubleNum1);
     // Задача 3.2
         float floatNum2 = 27.12f;
         long longNum2 = 987678965549L;
