@@ -1,6 +1,7 @@
-public class Main {
+﻿public class Main {
     public static void main(String[] args) {
     // Задача 3.1
+        System.out.println("Задача № 1");
         int intNum1 = 300594000;
         byte byteNum1 = 120;
         short shortNum1 = 10000;
@@ -14,6 +15,7 @@ public class Main {
         System.out.println("Значение переменной longNum1 с типом long равно " + longNum1);
         System.out.println("Значение переменной floatNum1 с типом float равно " + floatNum1);
         System.out.println("Значение переменной doubleNum1 с типом double равно " + doubleNum1);
+        System.out.println();
     // Задача 3.2
         float floatNum2 = 27.12f;
         long longNum2 = 987678965549L;
